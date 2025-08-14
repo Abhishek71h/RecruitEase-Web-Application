@@ -4,7 +4,7 @@ mongoose.connect(url, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     serverSelectionTimeoutMS: 5000,
-  });
+});
 const VacancySchema = mongoose.Schema({
     vacancyId : {
         type:String,

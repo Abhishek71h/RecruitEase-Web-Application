@@ -1,2 +1,5 @@
-const url = "mongodb://127.0.0.1:27017/RecruitEase"
+import dotenv from 'dotenv';
+dotenv.config();
+
+const url = process.env.MONGO_URI;
 export default url;
