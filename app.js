@@ -8,6 +8,8 @@ import vacancyRouter from './router/vacancyRouter.js';
 import cookieParser from 'cookie-parser';
 import expressFileUpload from 'express-fileupload';
 import appliedvacancyRouter from './router/appliedVacancyRouter.js';
+import dotenv from 'dotenv';
+dotenv.config();
 
 const app = express();
 
