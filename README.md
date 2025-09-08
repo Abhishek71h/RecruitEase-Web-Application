@@ -1,4 +1,4 @@
-<h1 align="center">✨ RecruitEase - A Career Recruitment Web Application ✨</h1>
+<h1 align="center">RecruitEase - A Career Recruitment Web Application</h1>
 
 <p align="center">
   <img src="/public/images/image.png" alt="Demo App" width="700"/>
